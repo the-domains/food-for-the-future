@@ -1,15 +1,15 @@
-typography_spectrum: 0.4583858516998589
+layout_spectrum: 0.8115651654079556
+typography_spectrum: 0.3481845143251121
 color:
-  brandStrength: 0.655680175870657
-  lightness: 0.8591967450920492
-  saturation: 0.41023728367872536
-  rhythmicContrast: 0.729150501312688
+  brandStrength: 0.8194034448824823
+  lightness: 0.8232004109304398
+  saturation: 0.456725318916142
+  rhythmicContrast: 0.7224762025289237
   brandColors:
-    - '#D8CAA8'
-    - '#5C832F'
-    - '#284907'
-    - '#382513'
-    - '#363942'
-layout_spectrum: 0.6253088931553066
+    - '#5A1F00'
+    - '#D1570D'
+    - '#FDE792'
+    - '#477725'
+    - '#A9CC66'
 name: Food for the future
 title: Creating food solutions for a sustainable future
