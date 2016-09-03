@@ -1,4 +1,3 @@
-layout_spectrum: 0.8115651654079556
 typography_spectrum: 0.3481845143251121
 color:
   brandStrength: 0.8194034448824823
@@ -11,5 +10,7 @@ color:
     - '#FDE792'
     - '#477725'
     - '#A9CC66'
+layout_spectrum: 0.8115651654079556
 name: Food for the future
 title: Creating food solutions for a sustainable future
+description: Creating food solutions for a sustainable future
